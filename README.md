@@ -4,7 +4,7 @@
 | ------------------------------------------------------------ |
 | ` `                                                          |
 | A basic Unity exercise to explore simple random rotation sets. ` |
-| journal: https://sites.google.com/amre-amer.com/resume/home/cvArm      |
+| journal: https://sites.google.com/amre-amer.com/resume/home/hand      |
 | `Overview`                                                   |
 | ` `                                                          |
 | `- Controll of angle range for each seg.`                              |
